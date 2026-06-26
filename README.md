@@ -1,7 +1,7 @@
 <h1 align="center">Pralexio</h1>
 
 <p align="center">
-  Independent developer building JetBrains plugins, developer tools, automation, and game server tooling.
+Independent developer building practical tools for IDEs, automation, and game communities.
 </p>
 
 ---
