@@ -1,7 +1,7 @@
 <h1 align="center">Pralexio</h1>
 
 <p align="center">
-  Independent developer focused on JetBrains plugins, developer tools, automation, and game server tooling.
+  Independent developer building JetBrains plugins, developer tools, automation, and game server tooling.
 </p>
 
 ---
@@ -29,8 +29,3 @@ A JetBrains IDE plugin that embeds Perplexity directly inside the IDE and lets y
 - Developer tools
 - Automation
 - Game server tooling
-
-## Links
-
-- [GitHub](https://github.com/Pralexio)
-- [Perplexity AI Chat Plugin](https://github.com/Pralexio/PerplexityIntegration)
