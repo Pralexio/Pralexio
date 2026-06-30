@@ -1,18 +1,18 @@
 <h1 align="center">Pralexio</h1>
 
 <p align="center">
-  Independent developer building practical tools for IDEs, automation, and game communities.
+  Independent developer creating developer tools, web applications and solutions for game communities.
 </p>
 
 <p align="center">
   <a href="https://github.com/Pralexio">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=JetBrains+Plugin+Developer;Developer+Tools;Automation;Game+Server+Tooling" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=JetBrains+Plugin+Developer;Web+Developer;Developer+Tools;Automation+%26+SaaS;Game+Communities" alt="Typing Animation">
   </a>
 </p>
 
 ---
 
-## Featured Project
+# Featured Project
 
 <p align="center">
   <a href="https://github.com/Pralexio/PerplexityIntegration">
@@ -20,41 +20,85 @@
   </a>
 </p>
 
-### Perplexity AI Chat for JetBrains IDEs
+## Perplexity AI for JetBrains IDEs
 
-Native AI integration for JetBrains IDEs, allowing you to interact with Perplexity directly from your editor and send selected code without leaving the IDE.
+A native JetBrains plugin bringing Perplexity AI directly into your IDE with an integrated chat and seamless editor interaction.
 
-- **Repository:** https://github.com/Pralexio/PerplexityIntegration
-- **JetBrains Marketplace:** https://plugins.jetbrains.com/plugin/28929
-- **Built with:** Kotlin, IntelliJ Platform SDK
+**Links**
 
----
+- Repository: https://github.com/Pralexio/PerplexityIntegration
+- JetBrains Marketplace: https://plugins.jetbrains.com/plugin/28929
 
-## Projects
+**Built with**
 
-### Perplexity AI for JetBrains IDEs
-
-A native JetBrains plugin bringing Perplexity AI directly into the IDE.
-
-### Peqkr
-
-A competitive CS2 matchmaking platform with custom game servers, backend services and anti-cheat tooling.
-
-### TickrateFrance
-
-Infrastructure, automation and server tooling for multiplayer game communities.
+- Kotlin
+- IntelliJ Platform SDK
 
 ---
 
-## Tech Stack
+# Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## Perplexity AI
+
+Native AI integration for JetBrains IDEs.
+
+**Stack**
+
+Kotlin • IntelliJ Platform SDK
+
+</td>
+
+<td width="50%" valign="top">
+
+## Peqkr
+
+Competitive CS2 matchmaking platform built around custom game servers, backend services and player progression.
+
+**Stack**
+
+C# • ASP.NET • CounterStrikeSharp
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## TickrateFrance
+
+Freelance development studio providing modern websites, secure hosting, custom web applications and SaaS solutions.
+
+**Services**
+
+Web Development • Hosting • SaaS • API Integration
+
+</td>
+
+<td width="50%" valign="top">
+
+## Open Source
+
+Building practical software focused on productivity, automation and developer experience.
+
+</td>
+</tr>
+</table>
+
+---
+
+# Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cs,docker,git,idea,gradle,linux,mongodb,mysql&perline=10" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cs,dotnet,html,css,js,ts,nodejs,docker,git,idea,gradle,linux,mysql,mongodb&perline=8">
 </p>
 
 ---
 
-## Activity
+# Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pralexio&theme=github-dark&hide_border=true&area=true" width="100%">
@@ -62,8 +106,19 @@ Infrastructure, automation and server tooling for multiplayer game communities.
 
 ---
 
-## Connect
+# Currently Working On
 
-- GitHub: https://github.com/Pralexio
-- Website: https://tickrate.fr
-- JetBrains Marketplace: https://plugins.jetbrains.com/plugin/28929
+-  Perplexity AI for JetBrains IDEs
+-  Peqkr
+-  TickrateFrance
+-  New developer tools
+
+---
+
+# Connect
+
+<p align="center">
+  <a href="https://github.com/Pralexio">GitHub</a> •
+  <a href="https://tickrate.fr">Website</a> •
+  <a href="https://plugins.jetbrains.com/plugin/28929">JetBrains Marketplace</a>
+</p>
