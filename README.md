@@ -93,7 +93,7 @@ Building practical software focused on productivity, automation and developer ex
 # Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cs,dotnet,html,css,js,ts,nodejs,docker,git,idea,gradle,linux,mysql,mongodb&perline=8">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cs,dotnet,html,css,js,ts,nodejs,docker,git,idea,gradle,linux,mysql,mongodb&perline=8" alt="Tech Stack">
 </p>
 
 ---
@@ -101,17 +101,17 @@ Building practical software focused on productivity, automation and developer ex
 # Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pralexio&theme=github-dark&hide_border=true&area=true" width="100%">
+  <img src="https://raw.githubusercontent.com/Pralexio/Pralexio/output/activity-graph.svg" alt="GitHub Activity Graph" width="100%">
 </p>
 
 ---
 
 # Currently Working On
 
--  Perplexity AI for JetBrains IDEs
--  Peqkr
--  TickrateFrance
--  New developer tools
+- Perplexity AI for JetBrains IDEs
+- Peqkr
+- TickrateFrance
+- New developer tools
 
 ---
 
